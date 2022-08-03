@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const backendHost = "https://fuzzy-c-mean-api-production.up.railway.app/api"
+const backendHost = "https://fuzzy-c-mean-api-production-1.up.railway.app/api"
 
 // export const getOne = async (tableName, rowId) => {
 //     return await axios.get(`${backendHost}/db/get-one/${tableName}/${rowId}`);
